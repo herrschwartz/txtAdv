@@ -1,0 +1,36 @@
+#output{
+  width: 100%;
+}
+#output p{
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 3px;
+}
+.space{
+  display: flex;
+  flex-direction: column;
+}
+.sorry{
+  color: darkred;
+}
+.using{
+  color: teal;
+}
+#main{
+  margin-left: 3px;
+  margin-bottom: 3px;
+  border-bottom: 1px solid black;
+}
+.comment{
+  color:#56b71c;
+}
+.dm{
+  color: goldenrod;
+}
+.space{
+  max-height: 100vh;
+  overflow: auto;
+}
+.room{
+  color: dodgerblue;
+}
